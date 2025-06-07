@@ -1,0 +1,3 @@
+set	hive	{"hive":187,"mongo":0,"postgresql":90}	{"lower_bound_utc":"2025-05-01 12:39:00.688","upper_bound_utc":"2025-05-01 12:39:02.780"}	SID1965	CSE004	A
+set	mongo	{"hive":186,"mongo":1,"postgresql":90}	{"lower_bound_utc":"2025-05-01 12:39:04.393","upper_bound_utc":"2025-05-01 12:39:06.183"}	SID1965	CSE004	B
+get	hive	{"hive":187,"mongo":0,"postgresql":90}	{"lower_bound_utc":"2025-05-01 12:39:16.106","upper_bound_utc":"2025-05-01 12:39:17.674"}	SID1965	CSE004	undefined
